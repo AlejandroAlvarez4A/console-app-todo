@@ -20,6 +20,7 @@ npm init -y
 ## Use this Project
 It is a console application, where one must interact in a console to be able to create, list, delete, among other things in a persistent way
 
+![image](https://user-images.githubusercontent.com/40779741/136677389-25ad1942-b847-4614-8d4a-bd8fc8b85908.png)
 
 
 ### Credits
